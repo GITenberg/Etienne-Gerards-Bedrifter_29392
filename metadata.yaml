@@ -1,0 +1,39 @@
+_repo: Etienne-Gerards-Bedrifter_29392
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Salskov, Knud
+    gutenberg_agent_id: '33891'
+    url: http://www.gutenberg.org/2009/agents/33891
+covers:
+- cover_type: archival
+  image_path: 29392-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2009-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29392'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories, English'
+- !lcc 'PR'
+- !lcsh 'France -- History, Military -- 19th century -- Fiction'
+- !lcsh 'Adventure stories, English'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+title: Etienne Gerards Bedrifter
+url: http://www.gutenberg.org/ebooks/29392
